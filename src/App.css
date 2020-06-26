@@ -1,0 +1,14 @@
+.App {
+  background-color: #eee;
+  display: flex;
+}
+
+.App div{
+  flex-grow: 1;
+  background-color: #fff;
+  margin: 5px;
+}
+
+ul{
+  list-style-type: none;
+}

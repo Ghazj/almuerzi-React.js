@@ -1,0 +1,26 @@
+#meals{
+    margin-left: 0;
+}
+
+#submit{
+    cursor: pointer;
+    background-color: darkblue;
+    color: #fff;
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 25px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+#submit:disabled{
+    background-color: #ccc;
+    color: #000
+}
+
+#meals-list li{
+    cursor: pointer;
+}
+#selected{
+    background-color: darkgreen;
+}
